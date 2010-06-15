@@ -1,0 +1,6 @@
+include setup.py
+include LICENSE
+include LICENSE_THIRD_PARTY
+include MANIFEST.in
+include dstest/selenium-server.jar
+recursive-include tests *

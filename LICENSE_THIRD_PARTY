@@ -1,0 +1,40 @@
+#################
+Third party files
+#################
+
+The following files where included without modification in
+django-selenium-test-runner package:
+
+
+selenium-server.jar:
+
+  * Extracted from: http://release.seleniumhq.org/selenium-remote-control/1.0.1/selenium-remote-control-1.0.1-dist.zip
+  * path: selenium-server-1.0.1/selenium-server.jar
+  * License: Copyright 2006 ThoughtWorks, Inc. `Apache 2.0 License`_.
+
+
+selenium.py:
+
+  * Extracted from: http://release.seleniumhq.org/selenium-remote-control/1.0.1/selenium-remote-control-1.0.1-dist.zip
+  * path: selenium-python-client-driver-1.0.1/selenium.py
+  * License: Copyright 2006 ThoughtWorks, Inc. `Apache 2.0 License`_.
+
+
+wsgiserver.py:
+
+  * Extracted from: http://download.cherrypy.org/cherrypy/3.1.2/CherryPy-3.1.2.tar.gz
+  * path: CherryPy-3.1.2/cherrypy/wsgiserver/__init__.py
+  * License: Copyright (c) 2004-2007, CherryPy Team (team@cherrypy.org). All rights reserved.
+    BSD License in http://www.cherrypy.org/browser/trunk/cherrypy/LICENSE.txt?format=raw
+
+
+mediahandler.py:
+
+  * Extracted from: http://www.arteme.fi/blog/2009/02/26/django-cherrypy-dev-server-and-static-files
+  * License: (c) 2007-2009, Artem Egorkine.
+  * Adapted from: http://code.djangoproject.com/browser/django/tags/releases/1.0.2/django/core/servers/basehttp.py#L611
+  * License: Copyright (c) Django Software Foundation and individual contributors. All rights reserved.
+    BSD License in http://code.djangoproject.com/browser/django/trunk/LICENSE
+
+
+.. _Apache 2.0 License: http://www.apache.org/licenses/LICENSE-2.0
